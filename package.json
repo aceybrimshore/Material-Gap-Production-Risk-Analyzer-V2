@@ -1,7 +1,7 @@
 {
   "name": "supply-chain-material-shortage-analyzer",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",

@@ -48,7 +48,7 @@ export const Header: React.FC<HeaderProps> = ({
                   Material Gap & Production Risk Analyzer
                 </h1>
                 <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-50 text-indigo-700 border border-indigo-100">
-                  Supply Chain Pro
+                  v2.0
                 </span>
               </div>
               <div className="flex items-center gap-3 text-xs text-slate-500 mt-0.5">

@@ -1,6 +1,6 @@
-# Supply Chain & Material Shortage Analyzer
+# Supply Chain & Material Shortage Analyzer V2
 
-An enterprise-grade Work Order Material Gap & Supply Delay Analysis Application built with React, TypeScript, Tailwind CSS, and Google Gemini AI.
+An enterprise-grade Work Order Material Gap & Supply Delay Analysis Application (Version 2) built with React, TypeScript, Tailwind CSS, and Google Gemini AI.
 
 ---
 
